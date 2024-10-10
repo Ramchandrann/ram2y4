@@ -1,0 +1,248 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    font-family:Digitype Studio;
+}
+.top1{
+    height: 35px;
+    width: 100%;
+    background-color: rgb(21, 9, 68);
+    border: 0.5px solid rgb(69, 57, 138);
+    
+    
+}
+.top1 p{
+    float:left;
+    color: white;
+    padding:10px 0px 0px 50px;
+    font-size: 14px;
+    word-spacing: 3px;
+   
+    
+
+}
+.top1 span{
+    float: right;
+
+
+}
+.container{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: rgb(21, 9, 68);
+    color: white;
+    font-family:Digitype Studio;
+    
+}
+.container h1{
+    float:left;
+    margin: 20px 0px 0px 10px;
+    font-family:Digitype Studio;
+    
+
+
+}
+.box{
+    float: right;
+    margin: 30px 0px 0px 480px;
+}
+.box li{
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+    margin: 0px 0px 0px 40px;
+}
+.box li a{
+    color:white;
+    text-decoration: none;
+    font-family:Digitype Studio;
+    font-family:Digitype Studio;
+}
+.imga img{
+    height: 600px;
+    width: 100%;
+
+}
+.imga{
+    position:relative;
+
+}
+.imga2{
+    position: absolute;
+    top: 20%;
+    left:50%;
+    color: rgb(235, 236, 253);
+}
+.imga2 img{
+    height: 200px;
+    width: 200px;
+    align-item:center;
+    color: black;
+}
+.imga2 p{
+      padding:20px 0px 0px 50px;
+      font-size: 20px;
+}
+.imga2 h1{
+    font-size: 45px;
+    padding:20px 20px 0px 0px;
+    border-bottom: 1px solid white;
+}
+.librery{
+    height: 800px;
+    width: 100%;
+
+}
+.librery1{
+    float: right;
+    height: 00px;
+    width: 50%;
+    background-color: rgb(238, 239, 252);
+    
+}
+.librery1 img{
+    height: 400px;
+    width: 100%;
+}
+.librery2{
+    float: left;
+    height: 603px;
+    width: 50%;
+    background-color:  rgb(238, 239, 252);
+    color: black;
+}
+.librery2 h1{
+    padding: 70px;
+    font-size: 45px;
+}
+.librery2 li{
+    font-size: 20px;
+    text-align: justify;
+    padding: 10px 10px 0px 10px;
+}
+
+.form{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(28, 25, 59);
+    color:white;
+    display: flex;
+    
+    
+}
+.form input{
+ font-size: 20px;
+ padding-top:25px;
+ padding-left:200px ;
+ margin-left: 100px;
+ font-size:20px;
+ border: 1px solid rgb(252, 3, 239) yellow;
+ background-color: rgb(115, 113, 133);
+ position: relative;
+ border-radius: 20px;
+ color:white
+ 
+}
+.form p{
+ font-size: 25px;
+ margin-left: 100px;
+ color:white;
+ padding-left: 20px;
+ text-transform: capitalize;
+ margin-top:18px;
+}
+.form1{
+ font-size: 30px;
+ margin-left: 200px;
+}
+#gender{
+ height: 50px;
+ width: 50px;
+color: black;
+margin-left: 150px;
+}
+.rama{
+    height: 200px;
+    font-weight: 100%;
+    background-color:rgb(239, 241, 248) ;
+    margin-top: 5px;
+}
+.rama h1{
+    text-transform: capitalize;
+    font-size: 45px;
+    text-align: center;
+    padding-top:60px;
+    color: black;
+}
+
+.class1{
+    float: inline-end;
+    height: 400px;
+    width: 33%;
+    background-color: rgb(226, 228, 248);
+    border: 1px solid black;
+    list-style: none;
+}
+.class2{
+    float:inline-end;
+    height: 400px;
+    width: 33%;
+    background-color: rgb(226, 228, 248);
+    border: 1px solid black;
+    list-style: none;
+}
+.class3{
+    float:inline-end;
+    height: 400px;
+    width: 33%;
+    background-color: rgb(226, 228, 248);
+    border: 1px solid black;
+    list-style: none;
+}
+.class1 h1{
+    text-align: center;
+    font-size: 30px;
+    padding-top:8px;
+    text-decoration: underline;
+
+}
+.class1 li{
+    color:rgb(226, 228, 248);
+    font-size: 20px;
+    color: black;
+    margin-top: 15px;
+}
+.class2 h1{
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+    
+    text-decoration: underline;
+
+    
+
+}
+.class2 li{
+    color: rgb(226, 228, 248);
+    font-size: 20px;
+    color: black;
+    padding-top: 20px;
+}
+.class3 h1{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;  
+    text-decoration: underline; 
+
+}
+.class3 li{
+    color: rgb(226, 228, 248);
+    font-size: 20px;
+    word-spacing: 4px;
+    color: black;
+    padding-top: 20px;
+}
+
